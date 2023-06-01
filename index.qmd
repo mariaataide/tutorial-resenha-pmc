@@ -1,0 +1,83 @@
+---
+title: "Tutorial de atualização da resenha de Comércio Varejista"
+format: 
+  html: 
+    css: styles.css
+lang: pt-br
+---
+
+## Procedimentos iniciais {#sec-1}
+
+-   Na pasta da resenha de serviços, crie uma subpasta para o mês de referência da resenha que será eleborada (@fig-1).
+
+![Criando a pasta da resenha e copiando os arquivos](img/criando_pasta_e_copiando_arquivos.gif){#fig-1}
+
+-   Consulte a planilha de numeração das resenhas disponível na descrição do grupo de WhatsApp da CEE. Selecione o primeiro número que não está marcado em vermelho. Nas colunas ao lado da tabela de numeração, indique o número que você selecionou e o nome da resenha (@fig-2 e @fig-4).
+
+![Consultando a numeração das resenhas](img/procedimento_incial_3.gif){#fig-2 fig-align="center" width="292"}
+
+![Selecionando o número da resenha](img/procedimento_incial_4.gif){#fig-3 fig-align="center"}
+
+-   Renomeie os arquivos de acordo com o ano, mês e numeração da resenha, conforme @fig-3.
+
+![Renomeado os arquivos da resenha](img/renomeando_os_arquivos.gif){#fig-4 fig-align="center"}
+
+-   Abra o arquivo Excel e reexiba as abas "tabela5906", "tabela8688", "tabela8693", "tabela8694" e "Gráficos" (@fig-5).
+
+![Reexibindo abas ocultas](img/reexibindo_abas_ocultas.gif){#fig-5}
+
+## Tabela [8880](https://sidra.ibge.gov.br/Tabela/8880) {#sec-2}
+
+-   No site do [SIDRA](https://sidra.ibge.gov.br), utilize a lupa para encontrar a tabela [8880](https://sidra.ibge.gov.br/Tabela/8880) (@fig-6).
+-   Em "Layout", organize a tabela conforme figura @fig-6.
+-   Em "Variáveis", selecione todas (@fig-6).
+-   Em "Tipo de índice", selecione todos (@fig-6).
+-   Em "Mês", selecione todos (@fig-6).
+-   Em "Unidade Territorial", selecione Brasil e todas as Unidades da Federação (@fig-6).
+-   Para baixar a tabela, clique no botão "Download" e em "Formato", selecione "CSV (BR)" e clique em "Download". **Atenção**: a tabela deve ser baixada **EXCLUSIVAMENTE** no formato "CSV (BR)" (@fig-6).
+
+![Baixando dados da tabela 8880](images/baixando_tabela_8880.gif){#fig-6 fig-align="center"}
+
+-   Copie os dados baixados e cole na aba "tabela8880" do arquivo Excel da resenha (@fig-7).
+
+![Atulizando dados da tabela 8880](img/atualizando_dados_tabela8880.gif){#fig-7 fig-align="center"}
+
+## Tabela [8881](https://sidra.ibge.gov.br/Tabela/8881)
+
+-   No site do [SIDRA](https://sidra.ibge.gov.br), utilize a lupa para encontrar a tabela [8880](https://sidra.ibge.gov.br/Tabela/8880) (@fig-8).
+-   Em "Layout", organize a tabela conforme figura @fig-8.
+-   Em "Variáveis", selecione todas (@fig-8).
+-   Em "Tipo de índice", selecione todos (@fig-8).
+-   Em "Mês", selecione todos (@fig-6).
+-   Em "Unidade Territorial", selecione Brasil e todas as Unidades da Federação (@fig-8).
+-   Para baixar a tabela, clique no botão "Download" e em "Formato", selecione "CSV (BR)" e clique em "Download". **Atenção**: a tabela deve ser baixada **EXCLUSIVAMENTE** no formato "CSV (BR)" (@fig-8).
+-   Copie os dados baixados e cole na aba "tabela8880" do arquivo Excel da resenha (@fig-8).
+
+![Baixando a tabela 8881](img/baixando_tabela_8881.gif){#fig-8 fig-align="center"}
+
+-   Copie os dados baixados e cole na aba "tabela8881" do arquivo Excel da resenha (@fig-9).
+
+![Atualizando os dados da tabela 8881](img/atualizando_dados_tabela8881.gif){#fig-9 fig-align="center"}
+
+## Tabela [8883](https://sidra.ibge.gov.br/Tabela/8883){#fig-10} {#sec-4}
+
+-   No site do [SIDRA](https://sidra.ibge.gov.br), utilize a lupa para encontrar a tabela [8883](https://sidra.ibge.gov.br/Tabela/8883) (@fig-9).
+-   Em "Layout", organize a tabela conforme figura @fig-9
+-   Em "Variáveis", selecione todas (@fig-9).
+-   Em "Tipo de índice", selecione todos (@fig-9).
+-   Em "Atividades", selecione todas (@fig-9).
+-   Em "Mês", selecione todos (@fig-9).
+-   Em "Unidade Territorial", selecione Brasil e todas as Unidades da Federação (@fig-9).
+-   Para baixar a tabela, clique no botão "Download" e em "Formato", selecione "CSV (BR)" e clique em "Download". **Atenção**: a tabela deve ser baixada **EXCLUSIVAMENTE** no formato "CSV (BR)". Na tabela 8883, como o arquivo possui mais de 200.000 observações, os dados precisam ser baixados a posteriori (@fig-9).
+
+![Baixando dados da tabela 8883](img/baixando_dados_tabela8883.gif)
+
+-   Copie os dados baixados e cole na aba "tabela8883" do arquivo Excel da resenha (@fig-10).
+
+![Atualizando os dados da tabela 8883](img/atualizando_dados_tabela8883.gif){fig-align="center"}
+
+## Tabelas e gráficos
+
+-   Após a atualização dos dados , copie da "tabela8880" os dados necessários para atualização do card e oculte as abas "tabela8880,"tabela8881" e "tabela8883". Depois, vá na aba "Sumário" e selecione o mês de referência. Feito isso, todos os gráficos e tabelas do arquivo Excel serão atualizados automaticamente (@fig-11).
+
+![Ocultando as abas e atualizando o mês](img/ocultando_abas_e_atualizando_mes.gif){#fig-11 fig-align="center"}

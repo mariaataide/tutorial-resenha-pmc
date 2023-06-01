@@ -1,0 +1,51 @@
+---
+title: "Tutorial de atualização do Word de Comércio Varejista"
+format: html
+lang: pt-br
+---
+
+## Cabeçalho
+
+-   No cabeçalho da resenha, atualize o mês de referência e o mês de divulgação. Feito isso, os títulos que contém meses de tabelas e gráficos, geralmente, são atualizados automaticamente (@fig-1).
+
+![Atualizando o cabeçalho da resenha](img/atualizando_cabe%C3%A7alho_resenha.gif){#fig-1 fig-align="center"}
+
+-   Nos cabeçalhos dos gráficos e tabelas o mês de referência também precisará ser atualizado. Atualize um dos cabeçalhos e os demais se atualizaram automaticamente (@fig-2).
+
+![Atualizando o mês de divulgação](img/atualizando_mes_referencia_resenha.gif){#fig-2 fig-align="center"}
+
+## Tabelas
+
+Para atualizar as tabelas, copie os valores da aba "T1" e "T2" do Excel e cole nas tabelas 1 e 2 do arquivo Word (@fig-3).
+
+![Atualizando as tabelas](img/atualizando_tabelas.gif){#fig-3 fig-align="center"}
+
+## Gráficos
+
+Para atualizar os gráficos, clique sobre a figura desejada e em "Editar Dados", selecione a opção "Editar dados no Excel 2013", se estiver usando o Office 2013. Feito isso, abrirá um arquivo Excel vinculado ao arquvio Word. Neste arquivo, cole os dados copiados da aba "Gráficos" do arquvo Excel da resenha. Atente-se para sempre copiar os dados que já estão ordenados em ordem decrescente. Após colar os dados, basta fechar a janela do arquivo Excel vinculado e os valores do gráfico se atualizarão automaticamente ( @fig-3, @fig-4, @fig-5, @fig-6, @fig-7 e @fig-8).
+
+::: callout-important
+-   Nos gráficos de ranking, lembrar de pintar a barra do Espírito Santo de azul escuro e as barras das demais UFs de azul claro.
+
+-   Nos gráficos de comparação interanual, é necessário substituir os nomes dos meses de forma manual.
+:::
+
+![Atualizando o gráfico 1](img/atualizando_gr%C3%A1fico1.gif){#fig-4 fig-align="center"}
+
+![Atualizando o gráfico 2](img/atualizando_gr%C3%A1fico2.gif){#fig-5 fig-align="center"}
+
+![Atualizando o gráfico 3](img/atualizando_gr%C3%A1fico3.gif){#fig-6 fig-align="center"}
+
+![](){fig-align="center"}
+
+![Atualizando o gráfico 4](img/atualizando_gr%C3%A1fico4.gif){#fig-7 fig-align="center"}
+
+![Atualizando o gráfico 5](img/atualizando_gr%C3%A1fico5.gif){#fig-8 fig-align="center"}
+
+## Procedimentos finais
+
+Após atualizar todas as tabelas e gráficos da resenha, redija o texto e encaminhe para a revisão do técnico escalado para revisão (a escala de revisão pode ser encontrada na descrição do grupo de WhatsApp da CEE). Ao receber a resenha revisada, faça as alterações necessárias, salve o arquivo em PDF e envie para comunicação (comunicacao\@ijsn.es.gov.br) e editoração (editoracao\@ijsn.es.gov.br), com cópia para a coordenadora. Antes de encaminhar, certifique-se de ter ocultado as abas "tabela8880", "tabela8881", "tabela8883" e "Gráficos".
+
+::: callout-important
+Lembre-se de substituir o nome do autor em "Elaboração" no rodapé da primeira página da resenha.
+:::

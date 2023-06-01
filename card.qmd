@@ -1,0 +1,13 @@
+---
+title: "Tutorial de atualização do card de Comércio Varejista"
+format: html
+lang: pt-br
+---
+
+## Atualização do card
+
+-   No gráfico que vai para o card da resenha, é usada uma série de 13 meses do índice de volume de serviços, na comparação com o mês imediatamente anterior (com ajuste sazonal). Para obter esses dados, vá na aba "tabela8880" do Excel da resenha e utilize o filtro para selecionar "Índice de volume de vendas no comércio varejista restrito" na coluna "Tipos de índice" e "Espírito Santo" na coluna "Brasil e Unidades da Federação", conforme @fig-1.
+
+-   Atualize o texto substituindo o valor referente ao índice (volume ou receita) e a base de comparação apresentada. Para encotrar os valores mostrados no card, consulte a aba "tabela8880" e use o filtro para obter a variação do mês de referência do card, de acordo com o índice e unidade territorial desejados (@fig-1).
+
+![Atualizando o card](img/atualizando_card.gif){#fig-1 fig-align="center"}

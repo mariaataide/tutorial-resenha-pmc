@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs/"
+
+website:
+  title: "Comércio Varejista"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Execl
+      - href: card.qmd
+        text: Card
+      - href: word.qmd
+        text: Word
+    
+    background: "#647cba"
+    logo: "img/ijsn.jpg"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

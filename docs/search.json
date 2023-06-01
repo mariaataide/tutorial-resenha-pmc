@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutorial de atualização da resenha de Comércio Varejista",
+    "section": "",
+    "text": "Na pasta da resenha de serviços, crie uma subpasta para o mês de referência da resenha que será eleborada (Figura 1).\n\n\n\n\nFigura 1: Criando a pasta da resenha e copiando os arquivos\n\n\n\nConsulte a planilha de numeração das resenhas disponível na descrição do grupo de WhatsApp da CEE. Selecione o primeiro número que não está marcado em vermelho. Nas colunas ao lado da tabela de numeração, indique o número que você selecionou e o nome da resenha (Figura 2 e Figura 4).\n\n\n\n\nFigura 2: Consultando a numeração das resenhas\n\n\n\n\n\nFigura 3: Selecionando o número da resenha\n\n\n\nRenomeie os arquivos de acordo com o ano, mês e numeração da resenha, conforme Figura 3.\n\n\n\n\nFigura 4: Renomeado os arquivos da resenha\n\n\n\nAbra o arquivo Excel e reexiba as abas “tabela5906”, “tabela8688”, “tabela8693”, “tabela8694” e “Gráficos” (Figura 5).\n\n\n\n\nFigura 5: Reexibindo abas ocultas"
+  },
+  {
+    "objectID": "index.html#sec-2",
+    "href": "index.html#sec-2",
+    "title": "Tutorial de atualização da resenha de Comércio Varejista",
+    "section": "Tabela 8880",
+    "text": "Tabela 8880\n\nNo site do SIDRA, utilize a lupa para encontrar a tabela 8880 (Figura 6).\nEm “Layout”, organize a tabela conforme figura Figura 6.\nEm “Variáveis”, selecione todas (Figura 6).\nEm “Tipo de índice”, selecione todos (Figura 6).\nEm “Mês”, selecione todos (Figura 6).\nEm “Unidade Territorial”, selecione Brasil e todas as Unidades da Federação (Figura 6).\nPara baixar a tabela, clique no botão “Download” e em “Formato”, selecione “CSV (BR)” e clique em “Download”. Atenção: a tabela deve ser baixada EXCLUSIVAMENTE no formato “CSV (BR)” (Figura 6).\n\n\n\n\nFigura 6: Baixando dados da tabela 8880\n\n\n\nCopie os dados baixados e cole na aba “tabela8880” do arquivo Excel da resenha (Figura 7).\n\n\n\n\nFigura 7: Atulizando dados da tabela 8880"
+  },
+  {
+    "objectID": "index.html#tabela-8881",
+    "href": "index.html#tabela-8881",
+    "title": "Tutorial de atualização da resenha de Comércio Varejista",
+    "section": "Tabela 8881",
+    "text": "Tabela 8881\n\nNo site do SIDRA, utilize a lupa para encontrar a tabela 8880 (Figura 8).\nEm “Layout”, organize a tabela conforme figura Figura 8.\nEm “Variáveis”, selecione todas (Figura 8).\nEm “Tipo de índice”, selecione todos (Figura 8).\nEm “Mês”, selecione todos (Figura 6).\nEm “Unidade Territorial”, selecione Brasil e todas as Unidades da Federação (Figura 8).\nPara baixar a tabela, clique no botão “Download” e em “Formato”, selecione “CSV (BR)” e clique em “Download”. Atenção: a tabela deve ser baixada EXCLUSIVAMENTE no formato “CSV (BR)” (Figura 8).\nCopie os dados baixados e cole na aba “tabela8880” do arquivo Excel da resenha (Figura 8).\n\n\n\n\nFigura 8: Baixando a tabela 8881\n\n\n\nCopie os dados baixados e cole na aba “tabela8881” do arquivo Excel da resenha (Figura 9).\n\n\n\n\nFigura 9: Atualizando os dados da tabela 8881"
+  },
+  {
+    "objectID": "index.html#sec-4",
+    "href": "index.html#sec-4",
+    "title": "Tutorial de atualização da resenha de Comércio Varejista",
+    "section": "Tabela 8883",
+    "text": "Tabela 8883\n\nNo site do SIDRA, utilize a lupa para encontrar a tabela 8883 (Figura 9).\nEm “Layout”, organize a tabela conforme figura Figura 9\nEm “Variáveis”, selecione todas (Figura 9).\nEm “Tipo de índice”, selecione todos (Figura 9).\nEm “Atividades”, selecione todas (Figura 9).\nEm “Mês”, selecione todos (Figura 9).\nEm “Unidade Territorial”, selecione Brasil e todas as Unidades da Federação (Figura 9).\nPara baixar a tabela, clique no botão “Download” e em “Formato”, selecione “CSV (BR)” e clique em “Download”. Atenção: a tabela deve ser baixada EXCLUSIVAMENTE no formato “CSV (BR)”. Na tabela 8883, como o arquivo possui mais de 200.000 observações, os dados precisam ser baixados a posteriori (Figura 9).\n\n\n\n\nBaixando dados da tabela 8883\n\n\n\nCopie os dados baixados e cole na aba “tabela8883” do arquivo Excel da resenha (?@fig-10).\n\n\n\n\nAtualizando os dados da tabela 8883"
+  },
+  {
+    "objectID": "index.html#tabelas-e-gráficos",
+    "href": "index.html#tabelas-e-gráficos",
+    "title": "Tutorial de atualização da resenha de Comércio Varejista",
+    "section": "Tabelas e gráficos",
+    "text": "Tabelas e gráficos\n\nApós a atualização dos dados , copie da “tabela8880” os dados necessários para atualização do card e oculte as abas “tabela8880,”tabela8881” e “tabela8883”. Depois, vá na aba “Sumário” e selecione o mês de referência. Feito isso, todos os gráficos e tabelas do arquivo Excel serão atualizados automaticamente (Figura 10).\n\n\n\n\nFigura 10: Ocultando as abas e atualizando o mês"
+  },
+  {
+    "objectID": "card.html",
+    "href": "card.html",
+    "title": "Card",
+    "section": "",
+    "text": "No gráfico que vai para o card da resenha, é usada uma série de 13 meses do índice de volume de serviços, na comparação com o mês imediatamente anterior (com ajuste sazonal). Para obter esses dados, vá na aba “tabela8880” do Excel da resenha e utilize o filtro para selecionar “Índice de volume de vendas no comércio varejista restrito” na coluna “Tipos de índice” e “Espírito Santo” na coluna “Brasil e Unidades da Federação”, conforme Figure 1.\nAtualize o texto substituindo o valor referente ao índice (volume ou receita) e a base de comparação apresentada. Para encotrar os valores mostrados no card, consulte a aba “tabela8880” e use o filtro para obter a variação do mês de referência do card, de acordo com o índice e unidade territorial desejados (Figure 1).\n\n\n\n\nFigure 1: Atualizando o card"
+  },
+  {
+    "objectID": "word.html",
+    "href": "word.html",
+    "title": "Tutorial de atualização do Word de Comércio Varejista",
+    "section": "",
+    "text": "No cabeçalho da resenha, atualize o mês de referência e o mês de divulgação. Feito isso, os títulos que contém meses de tabelas e gráficos, geralmente, são atualizados automaticamente (Figura 1).\n\n\n\n\nFigura 1: Atualizando o cabeçalho da resenha\n\n\n\nNos cabeçalhos dos gráficos e tabelas o mês de referência também precisará ser atualizado. Atualize um dos cabeçalhos e os demais se atualizaram automaticamente (Figura 2).\n\n\n\n\nFigura 2: Atualizando o mês de divulgação"
+  },
+  {
+    "objectID": "word.html#tabelas",
+    "href": "word.html#tabelas",
+    "title": "Tutorial de atualização do Word de Comércio Varejista",
+    "section": "Tabelas",
+    "text": "Tabelas\nPara atualizar as tabelas, copie os valores da aba “T1” e “T2” do Excel e cole nas tabelas 1 e 2 do arquivo Word (Figura 3).\n\n\n\nFigura 3: Atualizando as tabelas"
+  },
+  {
+    "objectID": "word.html#gráficos",
+    "href": "word.html#gráficos",
+    "title": "Tutorial de atualização do Word de Comércio Varejista",
+    "section": "Gráficos",
+    "text": "Gráficos\nPara atualizar os gráficos, clique sobre a figura desejada e em “Editar Dados”, selecione a opção “Editar dados no Excel 2013”, se estiver usando o Office 2013. Feito isso, abrirá um arquivo Excel vinculado ao arquvio Word. Neste arquivo, cole os dados copiados da aba “Gráficos” do arquvo Excel da resenha. Atente-se para sempre copiar os dados que já estão ordenados em ordem decrescente. Após colar os dados, basta fechar a janela do arquivo Excel vinculado e os valores do gráfico se atualizarão automaticamente ( Figura 3, Figura 4, Figura 5, Figura 6, Figura 7 e Figura 8).\n\n\n\n\n\n\nImportante\n\n\n\n\nNos gráficos de ranking, lembrar de pintar a barra do Espírito Santo de azul escuro e as barras das demais UFs de azul claro.\nNos gráficos de comparação interanual, é necessário substituir os nomes dos meses de forma manual.\n\n\n\n\n\n\nFigura 4: Atualizando o gráfico 1\n\n\n\n\n\nFigura 5: Atualizando o gráfico 2\n\n\n\n\n\nFigura 6: Atualizando o gráfico 3\n\n\n\n\n\n\n\n\n\n\nFigura 7: Atualizando o gráfico 4\n\n\n\n\n\nFigura 8: Atualizando o gráfico 5"
+  },
+  {
+    "objectID": "word.html#procedimentos-finais",
+    "href": "word.html#procedimentos-finais",
+    "title": "Tutorial de atualização do Word de Comércio Varejista",
+    "section": "Procedimentos finais",
+    "text": "Procedimentos finais\nApós atualizar todas as tabelas e gráficos da resenha, redija o texto e encaminhe para a revisão do técnico escalado para revisão (a escala de revisão pode ser encontrada na descrição do grupo de WhatsApp da CEE). Ao receber a resenha revisada, faça as alterações necessárias, salve o arquivo em PDF e envie para comunicação (comunicacao@ijsn.es.gov.br) e editoração (editoracao@ijsn.es.gov.br), com cópia para a coordenadora. Antes de encaminhar, certifique-se de ter ocultado as abas “tabela8880”, “tabela8881”, “tabela8883” e “Gráficos”.\n\n\n\n\n\n\nImportante\n\n\n\nLembre-se de substituir o nome do autor em “Elaboração” no rodapé da primeira página da resenha."
+  }
+]
